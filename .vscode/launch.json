@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SampleStream2",
+            "request": "launch",
+            "mainClass": "com.notessensei.demo.httpclient.SampleStream2",
+            "projectName": "sample-java21-app"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "SampleStream",
+            "request": "launch",
+            "mainClass": "com.notessensei.demo.httpclient.SampleStream",
+            "projectName": "sample-java21-app"
+        }
+    ]
+}
